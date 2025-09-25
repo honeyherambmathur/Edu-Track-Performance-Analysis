@@ -1,5 +1,5 @@
 **EduTrack Student Performance Analysis** 📊  
-🚀 **Project Overview**
+🚀 **Project Description**
 
 The EduTrack Student Performance Analysis project explores and uncovers factors affecting student academic performance across multiple subjects. Using statistical analysis and visualizations, the project highlights trends related to gender, parental education, socioeconomic status, and test preparation, providing actionable insights for targeted interventions and improved learning outcomes.
 
