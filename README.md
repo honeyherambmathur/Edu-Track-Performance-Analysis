@@ -1,9 +1,9 @@
-EduTrack Student Performance Analysis 📊
-🚀 Project Overview
+**EduTrack Student Performance Analysis** 📊  
+🚀 **Project Overview**
 
 The EduTrack Student Performance Analysis project explores and uncovers factors affecting student academic performance across multiple subjects. Using statistical analysis and visualizations, the project highlights trends related to gender, parental education, socioeconomic status, and test preparation, providing actionable insights for targeted interventions and improved learning outcomes.
 
-🎯 Key Objectives
+🎯 **Key Objectives**
 
 Analyze student performance across subjects: Math, Reading, and Writing
 
@@ -11,13 +11,13 @@ Understand the impact of gender, parental education, lunch type, and test prepar
 
 Identify patterns and disparities to suggest equity-focused academic interventions
 
-📂 Dataset
+📂 **Dataset**
 
 Source: Kaggle – Students Performance in Exams
 
 Features include: Gender, Parental Education Level, Lunch Type, Test Preparation, Math Score, Reading Score, Writing Score
 
-🛠 Tools & Technologies
+🛠 **Tools & Technologies**
 
 Programming Language: Python
 
@@ -27,7 +27,7 @@ Techniques: Statistical summaries, correlation analysis, bar plots, boxplots, tr
 
 Visualization: Distribution plots, comparative charts, performance trends
 
-📌 Key Insights
+📌 **Key Insights**
 1️⃣ Gender-Based Performance Trends
 
 Female students outperform males in reading and writing
@@ -70,10 +70,26 @@ Lowest performers: Male students from lower-income households with low parental 
 
 Suggests multi-tiered interventions and equity-focused programs
 
-📈 Project Outcomes
+📈 **Project Outcomes**
 
 Provides data-driven recommendations for subject-specific interventions
 
 Highlights demographic disparities to guide policy and academic strategies
 
 Helps educators and institutions improve student learning outcomes
+
+⚡ **How to Run the Project**
+
+1.Clone the repository:
+
+  git clone [repository-link]
+
+
+2.Install dependencies:
+
+  pip install pandas numpy matplotlib seaborn
+
+
+3.Run the Jupyter Notebook:
+
+  jupyter notebook EduTrack_Analysis.ipynb
