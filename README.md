@@ -80,16 +80,16 @@ Helps educators and institutions improve student learning outcomes
 
 ⚡ **How to Run the Project**
 
-1.Clone the repository:
+1. Clone the repository:
 
   git clone [repository-link]
 
 
-2.Install dependencies:
+2. Install dependencies:
 
   pip install pandas numpy matplotlib seaborn
 
 
-3.Run the Jupyter Notebook:
+3. Run the Jupyter Notebook:
 
   jupyter notebook EduTrack_Analysis.ipynb
