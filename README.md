@@ -82,7 +82,7 @@ Helps educators and institutions improve student learning outcomes
 
 1. Clone the repository:
 
-  git clone [repository-link]
+  git clone https://github.com/honeyherambmathur/Edu-Track-Performance-Analysis
 
 
 2. Install dependencies:
